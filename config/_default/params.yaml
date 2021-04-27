@@ -7,7 +7,7 @@
 
 theme: 'nijmegenps'
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
@@ -19,23 +19,25 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
+# Public Elementary School de Tarthorst
+# Tarthorst 4, 6708 HH Wageningen
 
-email: test@example.org
+email: polskaszkolanijmegen@gmail.com
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Nijenkamp 141
+  city: Druten
+  region: 'Gelderland'
+  postcode: '6651 HJ'
+  country: Nederland
+  country_code: NL
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  longitude: '5.66098'
+  latitude: '51.97864'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Dwa razy w miesiącu, w soboty od godziny 10.45 do godziny 13.30'
+  - 'Tweemaal per maand, op zaterdag van 10:45u-13:30u'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
@@ -145,7 +147,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 18
 marketing:
   google_analytics: ''
   google_tag_manager: ''

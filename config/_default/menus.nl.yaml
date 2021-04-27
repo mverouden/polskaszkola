@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Voorbeeld
-    url: '#about'
+  - name: Over Ons
+    url: '/'
     weight: 10
   - name: Berichten
     url: '#posts'
