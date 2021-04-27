@@ -3,20 +3,33 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
+pl:
+  languageCode: pl-pl
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/pl
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+nl:
+  languageCode: nl-nl
+  contentDir: content/nl
+  title: Poolse School Nijmegen
 #  params:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
-#      - name: 传
+#      - name: Voorbeeld
+#        url: '#about'
+#        weight: 1
+
+# Uncomment the lines below to configure your website in a third language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Polish School Nijmegen
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: Demo
 #        url: '#about'
 #        weight: 1
