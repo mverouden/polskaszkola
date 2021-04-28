@@ -8,11 +8,11 @@
 - id: back_to_top
   translation: Powrót do góry
 - id: home
-  translation: Home
+  translation: Strona Gƚówna
 - id: close
-  translation: Close
+  translation: Zamknąć
 - id: languages
-  translation: Languages
+  translation: Języki
 
 # General
 - id: related
@@ -30,13 +30,13 @@
 
 # Themes
 - id: theme_selector
-  translation: Display preferences
+  translation: Preferencje wyświetlania
 - id: theme_light
-  translation: Light
+  translation: Lekki
 - id: theme_dark
-  translation: Dark
+  translation: Ciemny
 - id: theme_auto
-  translation: Automatic
+  translation: Automatyczny
 
 # Buttons
 - id: btn_preprint

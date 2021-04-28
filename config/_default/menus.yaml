@@ -10,18 +10,21 @@ main:
   - name: Posty
     url: '#posts'
     weight: 20
-  - name: Projektowanie
-    url: '#projects'
-    weight: 30
-  - name: Prezentacje
-    url: '#talks'
-    weight: 40
-  - name: Publikacje
-    url: '#featured'
-    weight: 50
-  - name: Kursy
-    url: courses/
-    weight: 60
+  # - name: Projektowanie
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Prezentacje
+  #   url: '#talks'
+  #   weight: 40
+  # - name: Publikacje
+  #   url: '#featured'
+  #   weight: 50
+  # - name: Kursy
+  #   url: courses/
+  #   weight: 60
+  - name: Kalendarz
+    url: /calendar
+    weight: 70
   - name: Kontakt
     url: '#contact'
-    weight: 70
+    weight: 80

@@ -36,7 +36,7 @@ De lessen worden gegeven op:
 *Tarthorst 4*  
 *6708 HH Wageningen*  
 
-Klik hier voor een [{{< icon name="directions" pack="fas" >}} **routebeschrijving**](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
+Klik hier voor een [**routebeschrijving** {{< icon name="directions" pack="fas" >}}](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
 
 Postadres:  
   

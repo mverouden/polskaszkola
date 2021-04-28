@@ -36,7 +36,7 @@ Zajęcia odbywają się w szkole:
 *Tarthorst 4*  
 *6708 HH Wageningen*  
 
-Kliknij tutaj, aby wyświetlić [{{< icon name="directions" pack="fas" >}} **wskazówki**](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
+Kliknij tutaj, aby wyświetlić [**wskazówki** {{< icon name="directions" pack="fas" >}}](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
 
 Adres korespondencyjny:  
 
