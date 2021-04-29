@@ -32,7 +32,7 @@
 - id: theme_selector
   translation: Preferencje wyświetlania
 - id: theme_light
-  translation: Lekki
+  translation: Jasny
 - id: theme_dark
   translation: Ciemny
 - id: theme_auto
