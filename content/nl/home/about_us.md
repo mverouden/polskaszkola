@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Over ons
+title: Over de School
 subtitle:
 
 # Hero image (optional).  Enter filename of an image in the `assets/media/` folder.
@@ -24,7 +24,7 @@ cta:
   icon: download
 cta_alt:
   label: Stel een vraag
-  url: '#contact'
+  url: '/contact'
 
 design:
   # Choose a view for the listings:
@@ -60,6 +60,18 @@ advanced:
   css_clas: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**Poolse School Nijmegen - Arnhem Irena Kwiatkowska** werd opgericht in 1996. Twee keer per maand op zaterdag kunnen kinderen van 2,5 tot 14 jaar lessen volgen.
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+Ouders en geïnteresseerden hebben gedurende deze tijd de gelegenheid elkaar te ontmoeten en bij te praten onder het genot van een kopje koffie of thee.
+
+<!--
+Poolse School Nijmegen - Arnhem Irena Kwiatkowska werd opgericht in 1996. Twee keer per maand, op zaterdag van 10.45 uur tot 13.30 uur, kunnen kinderen van 2,5-14 jaar deelnemen aan lessen in vier leeftijdsgroepen. Ouders en geïnteresseerden hebben gedurende deze tijd de gelegenheid elkaar te ontmoeten en bij te praten onder het genot van een kopje koffie of thee.
+
+Wij nodigen ouders en kinderen het hele schooljaar (van september tot juni) uit om ons te leren kennen tijdens gratis proeflessen. Neem dan telefonisch of per e-mail contact met ons op.
+
+Vind ons en vind ons leuk op Facebook!
+
+Ons doel is om onze kinderen in contact te brengen met de Poolse taal, cultuur en gewoonten, en om contact mogelijk te maken met leeftijdsgenoten die zich in een vergelijkbare situatie bevinden, door hen te laten zien dat het spreken van de Poolse taal een voorrecht en plezier is, geen vervelende plicht!
+
+Onze lessen zijn gevuld met plezier en liedjes, maar kinderen leren ook Poolse gedichten, lezen Poolse sprookjes, verdrinken Marzanna in de lente ... dat is alles wat we ons herinneren als de charme van onze jeugd ...
+-->

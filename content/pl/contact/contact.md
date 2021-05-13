@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 10
 
 title: Kontakt
 subtitle:
@@ -26,5 +26,7 @@ content:
       captcha: false
   
 design:
-  columns: '2'
+  columns: '1'
 ---
+
+![Kontakt](contact_us.png#center)

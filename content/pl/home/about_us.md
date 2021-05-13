@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 'O Nas'
+title: O Szkole
 subtitle:
 
 # Hero image (optional).  Enter filename of an image in the `assets/media/` folder.
@@ -24,7 +24,7 @@ cta:
   icon: download
 cta_alt:
   label: Zadać pytanie
-  url: '#contact'
+  url: '/contact'
 
 design:
   # Choose a view for the listings:
@@ -60,6 +60,6 @@ advanced:
   css_clas: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**Polska Szkoła Nijmegen – Arnhem im. Ireny Kwiatkowskiej** została założona w 1996 roku. Dwa razy w miesiącu, w soboty od godziny 10.45 do godziny 13.30 dzieci w wieku 2,5-14 lat mogą uczestniczyć w zajęciach w czterech grupach wiekowych. 
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+Rodzice i osoby zainteresowane mają w tym czasie możliwość spotkania się i rozmowy przy filiżance kawy czy herbaty.

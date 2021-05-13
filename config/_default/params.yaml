@@ -25,7 +25,7 @@ twitter: ''
 email: polskaszkolanijmegen@gmail.com
 phone: 888 888 88 88
 address:
-  street: Nijenkamp 141
+  street: 'Vereniging Poolse School Nijmegen – Arnhem<br>Nijenkamp 141'
   city: Druten
   region: 'Gelderland'
   postcode: '6651 HJ'
@@ -34,28 +34,34 @@ address:
 coordinates:
   longitude: '' # '5.66098'
   latitude: '' # '51.97864'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: |-
+  - <a href="https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N" target="_blank">Kierunki lokalizacja szkoły</a>
+  - <a href="https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N" target="_blank">Routebeschrijving school locatie</a>
 office_hours:
   - 'Dwa razy w miesiącu, w soboty od godziny 10.45 do godziny 13.30'
   - 'Tweemaal per maand, op zaterdag van 10:45u-13:30u'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: facebook-square
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Facebook Polska Szkoła Nijmegen – Arnhem
+    link: 'https://www.facebook.com/polskaszkolanijmegen/'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/Twitter'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 

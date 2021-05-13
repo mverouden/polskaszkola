@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Over Ons
+  - name: Onze School
     url: '/'
     weight: 10
   - name: Berichten
-    url: '#posts'
+    url: '/post'
     weight: 20
   # - name: Projecten
   #   url: '#projects'
@@ -23,8 +23,8 @@ main:
   #   url: courses/
   #   weight: 60
   - name: Kalender
-    url: calendar/
+    url: 'calendar/'
     weight: 70
   - name: Contact
-    url: '#contact'
+    url: '/contact'
     weight: 80
