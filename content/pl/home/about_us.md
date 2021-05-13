@@ -19,7 +19,7 @@ hero_media: nijmegen_polska_szkola.jpg
 
 cta:
   label: '**Formularz wpisowy**'
-  url: '/files/Formularz-wpisowy.pdf'
+  url: 'files/Formularz-wpisowy.pdf'
   icon_pack: fas
   icon: download
 cta_alt:

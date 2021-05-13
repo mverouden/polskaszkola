@@ -1,5 +1,5 @@
 ---
-title: Kalender
+title: Agenda
 summary: Here we describe how to add a page to your site.
 date: "2021-04-28T00:00:00+02:00"
 
