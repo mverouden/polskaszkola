@@ -12,11 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 
+title: 'Gdzie?'
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: obs_tarthorst.jpg
     image_darken: 0.6
@@ -30,7 +30,7 @@ design:
 #   css_class: fullscreen
 ---
 
-Zajęcia odbywają się w szkole:  
+## __Zajęcia odbywają się w szkole:__
 
 *__Public Elementary School de Tarthorst__*  
 *Tarthorst 4*  
@@ -38,8 +38,10 @@ Zajęcia odbywają się w szkole:
 
 Kliknij tutaj, aby wyświetlić [**wskazówki** {{< icon name="directions" pack="fas" >}}](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
 
-Adres korespondencyjny:  
+## __Adres korespondencyjny:__
 
 *__Vereniging Poolse School Nijmegen – Arnhem__*  
 *Nijenkamp 141*  
 *6651 HJ Druten*
+
+## __Znajdzcie i Polubcie nas na__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebooku**</a>__!__

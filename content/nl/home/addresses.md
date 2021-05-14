@@ -12,11 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 
+title: 'Waar?'
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: obs_tarthorst.jpg
     image_darken: 0.6
@@ -30,7 +30,7 @@ design:
 #   css_class: fullscreen
 ---
 
-De lessen worden gegeven op:  
+## __De lessen worden gegeven op:__
 
 *__Openbare Basisschool de Tarthorst__*  
 *Tarthorst 4*  
@@ -38,8 +38,10 @@ De lessen worden gegeven op:
 
 Klik hier voor een [**routebeschrijving** {{< icon name="directions" pack="fas" >}}](https://www.openstreetmap.org/directions?engine=osrm_car&route=51.97864,5.66098#map=18/51.97864/5.66098&layers=N)
 
-Postadres:  
+## __Postadres:__
   
 *__Vereniging Poolse School Nijmegen – Arnhem__*  
 *Nijenkamp 141*  
 *6651 HJ Druten*
+
+## __Vind en Like ons ook op__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebook**</a>__!__

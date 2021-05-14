@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Over de School
+title: 'Over de School'
 subtitle:
 
 # Hero image (optional).  Enter filename of an image in the `assets/media/` folder.
