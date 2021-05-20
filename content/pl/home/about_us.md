@@ -63,3 +63,5 @@ advanced:
 **Polska Szkoła Nijmegen – Arnhem im. Ireny Kwiatkowskiej** została założona w 1996 roku. Dwa razy w miesiącu, w soboty od godziny 10.45 do godziny 13.30 dzieci w wieku 2,5-14 lat mogą uczestniczyć w zajęciach w czterech grupach wiekowych. 
 
 Rodzice i osoby zainteresowane mają w tym czasie możliwość spotkania się i rozmowy przy filiżance kawy czy herbaty.
+
+Zapraszamy przez cały rok szkolny (od września do czerwca) rodziców z dziećmi na zapoznanie się z nami podczas bezpłatnych zajęć próbnych. Prosimy o kontakt telefoniczny lub [mailowy](/contact).

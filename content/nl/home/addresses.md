@@ -44,4 +44,4 @@ Klik hier voor een [**routebeschrijving** {{< icon name="directions" pack="fas" 
 *Nijenkamp 141*  
 *6651 HJ Druten*
 
-## __Vind en Like ons ook op__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebook**</a>__!__
+## __Vind en Like__ {{< icon name="thumbs-up" pack="far" >}} __ons ook op__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebook**</a>__!__

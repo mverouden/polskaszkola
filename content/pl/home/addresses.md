@@ -44,4 +44,4 @@ Kliknij tutaj, aby wyświetlić [**wskazówki** {{< icon name="directions" pack=
 *Nijenkamp 141*  
 *6651 HJ Druten*
 
-## __Znajdzcie i Polubcie nas na__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebooku**</a>__!__
+## __Znajdzcie i Polubcie__ {{< icon name="thumbs-up" pack="far" >}} __nas na__<a href="https://www.facebook.com/polskaszkolanijmegen/" style="text-decoration: none" target="_blank">{{< icon name="facebook-square" pack="fab" >}}**Facebooku**</a>__!__

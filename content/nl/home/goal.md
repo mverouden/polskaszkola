@@ -9,22 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Wat?
+title: Ons doel?
 subtitle:
-
-design:
-  columns: "1"
-  # background:
-  #   image: obs_tarthorst.jpg
-  #   image_darken: 0.6
-  #   image_parallax: true
-  #   image_position: center
-  #   image_size: cover
-  #   text_color_light: true
-  # spacing:
-  #   padding: ["20px", "0", "20px", "0"]
-  # advanced:
-  #   css_class: fullscreen
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
