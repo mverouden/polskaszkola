@@ -35,25 +35,25 @@ De school geeft lessen voor kinderen en tieners van 2,5 tot 14 jaar uit Poolse e
 Onze lessen zijn afgestemd op hun niveau en behoeften op basis van de curriculumrichtlijnen van het Ministerie van Onderwijs voor Poolse scholen in het buitenland. De lessen worden afgewisseld met liedjes en spelletjes. We willen dat kinderen met plezier naar de les komen.
 
 __*Groep 1. Mini Mini*__  
-Uitgevoerd door: Karolina van de Laar-Bednarska, Patryk Beszterda  
+Docenten: Karolina van de Laar-Bednarska, Patryk Beszterda  
 Het oorspronkelijke programma van de school.  
 
 De lessen in de Mini Mini-groep (2,5-4 jaar) zijn voornamelijk gericht op het luisteren naar de Poolse taal, het opbouwen van een woordenschat, spelletjes en liedjes.
 
 __*Groep 2. Pre-school*__  
-Docent: mgr Adrianna Beszterda  
+Docente: Adrianna Beszterda, MA
 Het oorspronkelijke programma van de school.
 
 De lessen in de middelste groep (4-5 jaar) zijn speciaal voorbereid voor kleuters, met veel elementen van plezier en muziek. Zij leren hier echter al letters, breiden ons vocabulaire uit en werken met de primer.
 
 __*Groep 3. Vroegschoolse school*__  
-Uitgevoerd door: Kinga Dybowska, MA - Pools en kennis over Polen  
+Docente: Kinga Dybowska, MA - Poolse Taal en kennis over Polen  
 Leerboek: materiaal uit verschillende leerboeken.
 
 De lessen in de middelste groep (6-8 jaar) bestaan uit het leren lezen, schrijven en het uitbreiden van de woordenschat. Bovendien leren kinderen over de geografie en geschiedenis van Polen.
 
 __*Groep 4. De oudste*__  
-Uitgevoerd door: Agata Pawlik, MA - Pools en kennis over Polen.  
+Docente: Agata Pawlik, MA - Poolse Taal en kennis over Polen.  
 Leerboek: grammatica en spelling veilig.  
 
 Tijdens onze lessen verdiepen we de kennis van de Poolse taal. De kinderen leren spreken, lezen en schrijven in het Pools, we verbeteren ook de luistervaardigheid. Ze zingen liedjes, leren de geschiedenis, cultuur en traditie van Polen kennen. We proberen historische en culturele evenementen te combineren, die belangrijk zijn voor zowel Polen als Nederland. Naast leren vinden we ook tijd voor educatieve spelletjes, spelletjes en puzzels. Elk contact met de Poolse taal is voor hen een interessante ervaring. De kinderen ontdekken, behouden en ontwikkelen.

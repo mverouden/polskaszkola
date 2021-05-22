@@ -7,9 +7,12 @@ main:
   - name: Nasza Szkoła
     url: '/'
     weight: 10
+  - name: Zespół
+    url: '/people'
+    weight: 20
   - name: Posty
     url: '/post'
-    weight: 20
+    weight: 30
   # - name: Projektowanie
   #   url: '#projects'
   #   weight: 30
