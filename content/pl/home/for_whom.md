@@ -35,7 +35,7 @@ Szkoła prowadzi zajęcia dla dzieci i młodzieży od 2,5 do 14 lat pochodzącyc
 Nasze zajęcia są dostosowane do ich poziomu i potrzeb opierają się na wytycznych programowych Ministerstwa Edukacji dla szkół polonijnych. Lekcje są urozmaicone piosenkami i zabawami. Chcemy, żeby nasze dzieci zawsze z chęcią przychodziły na zajęcia.
 
 __*Grupa 1. Mini Mini*__  
-Prowadzący:  Karolina van de Laar-Bednarska ,Patryk Beszterda  
+Prowadzący:  Karolina van de Laar-Bednarska, Patryk Beszterda  
 Autorski program szkoły.
 
 Zajęcia w grupie Mini Mini (2,5-4 lata) maja na celu przede wszystkim usłuchanie się naszych maluszków z językiem polskim, zapoznanie się ze słownictwem, zabawami i piosenkami.

@@ -1,4 +1,6 @@
 ---
+authors:
+- Patryk Beszterda
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -21,26 +23,25 @@ interests:
 organizations:
 - name: 
   url: ''
-role: Website onderhoud
+role: Prezes zarządu i Nauczyciel Grupa 1. Mini Mini
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:test@example.org
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- display:
-    header: true
-  icon: facebook-square
+- icon: envelope
+  icon_pack: fas
+  link: mailto:test@example.org
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: facebook-square
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/
-superuser: true
-title: Maikel Verouden
+superuser: false
+title: Patryk Beszterda
 user_groups:
-- Webmaster
+- Nauczyciele
+- Zarządzanie
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

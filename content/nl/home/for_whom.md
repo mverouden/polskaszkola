@@ -40,7 +40,7 @@ Het oorspronkelijke programma van de school.
 
 De lessen in de Mini Mini-groep (2,5-4 jaar) zijn voornamelijk gericht op het luisteren naar de Poolse taal, het opbouwen van een woordenschat, spelletjes en liedjes.
 
-__*Groep 2. Pre-school*__  
+__*Groep 2. Kleuterschool*__  
 Docente: Adrianna Beszterda, MA
 Het oorspronkelijke programma van de school.
 

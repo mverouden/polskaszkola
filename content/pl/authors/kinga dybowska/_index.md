@@ -15,6 +15,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
+highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
