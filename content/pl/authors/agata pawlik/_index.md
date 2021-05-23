@@ -21,9 +21,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: 
+  url: ''
+role: Nauczyciela Grupa 4. Najstarsza
 social:
 - icon: envelope
   icon_pack: fas

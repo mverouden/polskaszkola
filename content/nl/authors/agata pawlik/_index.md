@@ -21,9 +21,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: 
+  url: ''
+role: Docente Groep 4. De oudste
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,7 @@ social:
 - icon: facebook-square
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/
-superuser: true
+superuser: false
 title: Agata Pawlik
 user_groups:
 - Docenten

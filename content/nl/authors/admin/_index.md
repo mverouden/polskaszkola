@@ -1,23 +1,25 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+authors:
+- Webmaster
+bio: ''
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Biosystems Data Analysis
+    institution: University of Amsterdam
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Chemistry | Process Analysis & Chemometrics
+    institution: University of Amsterdam
+    year: 2005
+  - course: B.Sc. in (Environmental) Analytical Chemistry
+    institution: Hogeschool van Arnhem en Nijmegen
+    year: 1998
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- Software Development
+- Programming
+- Teaching
 organizations:
 - name: 
   url: ''
@@ -43,8 +45,12 @@ user_groups:
 - Webmaster
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maikel Verouden is working at Biometris of Wageningen University & Research. With Biometris being the merger of the Mathematical and Statistical Methods group (Wageningen University) and the Business Unit Biometris for contract research (Wageningen Research). His research interests include Statistics in general, Statistical Genetics in Plant Breeding, Statistical Software development, mobile & cloud computing, programmable matter and teaching beforementioned topics. Being employed at both sides of Biometris he works 24h/week at Wageningen Research as a researcher, and 14h/week at Wageningen University as a lecturer.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As lecturer he is involved in the following courses:
+
+  - Statistics 1 [(MAT-15303)](https://ssc.wur.nl/Handbook/Course/MAT-15303)
+  - Statistics 2 [(MAT-15403)](https://ssc.wur.nl/Handbook/Course/MAT-15403)
+  - R for Statistics [(MAT-50303)](https://ssc.wur.nl/Handbook/Course/MAT-50303) (also as Course Coordinator)
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
