@@ -1,6 +1,6 @@
 ---
 authors:
-- Ewa Szymanska
+- Justyna Hajduga
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -22,7 +22,7 @@ interests:
 - Information Retrieval
 organizations:
 - name: 
-  url: ""
+  url: ''
 role: To be described
 social:
 - icon: envelope
@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/
 superuser: false
-title: Ewa Szymanska
+title: Justyna Hajduga
 user_groups:
 - Management
 ---

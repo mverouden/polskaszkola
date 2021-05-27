@@ -1,6 +1,6 @@
 ---
 authors:
-- Ewa Szymanska
+- Justyn Hajduga
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -38,9 +38,9 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/
 superuser: false
-title: Ewa Szymanska
+title: Justyna Hajduga
 user_groups:
-- Management
+- Zarządzanie
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
