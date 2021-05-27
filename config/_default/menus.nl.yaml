@@ -8,10 +8,10 @@ main:
     url: '/'
     weight: 10
   - name: Team
-    url: '/people'
+    url: '/people/'
     weight: 20
   - name: Schoolberichten
-    url: '/post'
+    url: '/schoollife/'
     weight: 30
   # - name: Projecten
   #   url: '#projects'
@@ -26,8 +26,8 @@ main:
   #   url: courses/
   #   weight: 60
   - name: Agenda
-    url: 'calendar/'
+    url: '/calendar/'
     weight: 70
   - name: Contact
-    url: '/contact'
+    url: '/contact/'
     weight: 80

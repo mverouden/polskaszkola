@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Schoolberichten
+title: Alle berichten
 view: 2
 ---

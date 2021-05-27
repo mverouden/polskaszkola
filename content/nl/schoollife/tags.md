@@ -7,12 +7,12 @@ widget: tag_cloud
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 20
 
-title: Popular Topics
+title: Populaire Onderwerpen
 subtitle: ''
 
 content:

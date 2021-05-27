@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: z Życia Szkoły
+title: Wszystkie Posty
 view: 2
 ---
