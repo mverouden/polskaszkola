@@ -10,7 +10,7 @@ main:
   - name: Zespół
     url: '/people'
     weight: 20
-  - name: Posty
+  - name: z Życia Szkoły
     url: '/post'
     weight: 30
   # - name: Projektowanie

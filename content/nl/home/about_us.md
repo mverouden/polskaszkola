@@ -64,7 +64,7 @@ advanced:
 
 Ouders en geïnteresseerden hebben gedurende deze tijd de gelegenheid elkaar te ontmoeten en bij te praten onder het genot van een kopje koffie of thee.
 
-Wij nodigen ouders en kinderen het hele schooljaar (van september tot juni) uit om ons te leren kennen tijdens gratis proeflessen. Neem dan telefonisch of per [e-mail](/nl/contact) contact met ons op.
+Wij nodigen ouders en kinderen het hele schooljaar (van september tot juni) uit om ons te leren kennen tijdens gratis proeflessen. Neem dan [telefonisch](/nl/author/magdalena-rahman/) of per [e-mail](/nl/contact/) contact met ons op.
 
 <!--
 Poolse School Nijmegen - Arnhem Irena Kwiatkowska werd opgericht in 1996. Twee keer per maand, op zaterdag van 10.45 uur tot 13.30 uur, kunnen kinderen van 2,5-14 jaar deelnemen aan lessen in vier leeftijdsgroepen. Ouders en geïnteresseerden hebben gedurende deze tijd de gelegenheid elkaar te ontmoeten en bij te praten onder het genot van een kopje koffie of thee.

@@ -27,13 +27,10 @@ role: Secretaris en contactpersoon inschrijving nieuwe leerlingen
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '/contact'
+- icon: phone
+  icon_pack: fas
+  link: tel:+31684383211 
 - icon: facebook-square
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/
@@ -45,6 +42,6 @@ user_groups:
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Voor aanmelding van nieuwe leerlingen telefonisch bereikbaar van maandag t/m vrijdag vanaf 17:00u.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->

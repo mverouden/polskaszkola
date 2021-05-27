@@ -10,7 +10,7 @@ main:
   - name: Team
     url: '/people'
     weight: 20
-  - name: Berichten
+  - name: Schoolberichten
     url: '/post'
     weight: 30
   # - name: Projecten

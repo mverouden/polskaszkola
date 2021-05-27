@@ -27,13 +27,10 @@ role: Voorzitter Vereniging en Docent Groep 1. Mini Mini
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '/contact'
+- icon: phone
+  icon_pack: fas
+  link: tel:+31613064067
 - icon: facebook-square
   icon_pack: fab
   link: https://www.facebook.com/polskaszkolanijmegen/

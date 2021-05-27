@@ -64,4 +64,4 @@ advanced:
 
 Rodzice i osoby zainteresowane mają w tym czasie możliwość spotkania się i rozmowy przy filiżance kawy czy herbaty.
 
-Zapraszamy przez cały rok szkolny (od września do czerwca) rodziców z dziećmi na zapoznanie się z nami podczas bezpłatnych zajęć próbnych. Prosimy o kontakt telefoniczny lub [mailowy](/contact).
+Zapraszamy przez cały rok szkolny (od września do czerwca) rodziców z dziećmi na zapoznanie się z nami podczas bezpłatnych zajęć próbnych. Prosimy o [kontakt telefoniczny](/author/magdalena-rahman/) lub [mailowy](/contact/).

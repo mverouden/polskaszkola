@@ -6,7 +6,7 @@
 # Appearance
 
 theme: 'nijmegenps'
-day_night: true
+day_night: false
 font: 'minimal'
 font_size: L
 
@@ -23,7 +23,7 @@ twitter: ''
 # Tarthorst 4, 6708 HH Wageningen
 
 email: polskaszkolanijmegen@gmail.com
-phone: 888 888 88 88
+# phone: 888 888 88 88
 address:
   street: 'Vereniging Poolse School Nijmegen – Arnhem<br>Nijenkamp 141'
   city: Druten
@@ -40,7 +40,7 @@ directions: |-
 office_hours:
   - 'Dwa razy w miesiącu, w soboty od godziny 10.45 do godziny 13.30'
   - 'Tweemaal per maand, op zaterdag van 10:45u-13:30u'
-appointment_url: 'https://calendly.com'
+# appointment_url: '/calendar/'
 contact_links:
   - icon: facebook-square
     icon_pack: fab
