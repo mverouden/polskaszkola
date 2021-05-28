@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: 'To Be Described'
 social:
 - icon: envelope
   icon_pack: fas

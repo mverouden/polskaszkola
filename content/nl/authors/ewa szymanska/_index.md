@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: 
   url: ""
-role: To be described
+role: 'To be described'
 social:
 - icon: envelope
   icon_pack: fas
