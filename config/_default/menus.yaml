@@ -7,27 +7,49 @@ main:
   - name: Nasza Szkoła
     url: '/'
     weight: 10
+    identifier: school
+  - name: O Szkole
+    url: '/#about_us'
+    weight: 10
+    parent: school
+  - name: Gdzie?
+    url: '/#addresses'
+    weight: 20
+    parent: school
+  - name: Nasz cel?
+    url: '/#goal'
+    weight: 30
+    parent: school
+  - name: Dla kogo?
+    url: '/#for_whom'
+    weight: 40
+    parent: school
+
   - name: Zespół
     url: '/people/'
     weight: 20
+
   - name: z Życia Szkoły
     url: '/schoollife/'
     weight: 30
-  # - name: Projektowanie
-  #   url: '#projects'
-  #   weight: 30
-  # - name: Prezentacje
-  #   url: '#talks'
-  #   weight: 40
-  # - name: Publikacje
-  #   url: '#featured'
-  #   weight: 50
-  # - name: Kursy
-  #   url: courses/
-  #   weight: 60
+    identifier: schoollife
+  - name: Regulamin
+    url: '/schoollife/#regulations'
+    weight: 10
+    parent: schoollife
+  - name: Najnowsze Posty
+    url: '/schoollife/#posts'
+    weight: 20
+    parent: schoollife
+  - name: Popularne Tematy
+    url: '/schoollife/#tags'
+    weight: 30
+    parent: schoollife
+
   - name: Kalendarz
     url: '/calendar/'
-    weight: 70
+    weight: 40
+
   - name: Kontakt
     url: '/contact/'
-    weight: 80
+    weight: 50

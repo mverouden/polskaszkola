@@ -42,14 +42,16 @@ office_hours:
   - 'Tweemaal per maand, op zaterdag van 10:45u-13:30u'
 # appointment_url: '/calendar/'
 contact_links:
+  - icon: piggy-bank
+    icon-pack: facebook-square
+    name: |-
+      - Konto bankowe: __NL41 SNSB 0902746022__ t.n.v __Vereniging Poolse School Nijmegen__
+      - Bankrekening:  __NL41 SNSB 0902746022__ t.n.v __Vereniging Poolse School Nijmegen__
+    link: '/contact'
   - icon: facebook-square
     icon_pack: fab
     name: Facebook Polska Szkoła Nijmegen – Arnhem
     link: 'https://www.facebook.com/polskaszkolanijmegen/'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: DM Me
-  #   link: 'https://twitter.com/Twitter'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
