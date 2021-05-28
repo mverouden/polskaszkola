@@ -72,23 +72,23 @@ __Artikel 8__: De ouder verricht minimaal 2 uur gemeenschapsdienst voor de schoo
 
 __Artikel 9__: Ouders zijn verplicht om afwezigheid van hun kind bij de les te melden via telefoon, e-mail of sms bij een van de leerkrachten. Ongeautoriseerde/niet-gemelde afwezigheid van 3 opeenvolgende klassen is de basis voor het verwijderen van de leerling van de schoollijst.
 
-__Artykuł 10__: Rodzice są zobowiązani do punktualnego przyprowadzania dzieci do szkoły. Wyjątki muszą być wcześniej uzgodnione z osobą koordynującą pracę dydaktyczną szkoły lub nauczycielem prowadzącym.
+__Artikel 10__: Ouders zijn verplicht hun kinderen op tijd naar school te brengen. Uitzonderingen moeten van tevoren worden afgesproken met degene die het onderwijs van de school coördineert of met de desbetreffende docent(e).
 
-__Artykuł 11__: Nauczyciele nie odpowiadają za bezpieczeństwo dzieci poza lokalem szkolnym oraz poza czasem trwania lekcji. Uczniowie nie mogą samowolnie wychodzić poza teren szkoły w godzinach, w których odbywają się zajęcia lekcyjne, a więc pomiędzy godziną 10.45 a 13.30.
+__Artikel 11__: Docenten zijn niet verantwoordelijk voor de veiligheid van kinderen buiten het schoolterrein en buiten de lesuren. Leerlingen mogen het schoolgebouw niet willekeurig verlaten tijdens de lesuren, d.w.z. tussen 10:45 en 13:30 uur.
 
-__Artykuł 12__: Uczniowie nie powinni przynosić do szkoły przedmiotów wartościowych, takich jak telefony komórkowe lub tablety, itp. Szkoła nie ponosi odpowiedzialności w przypadku ich uszkodzenia lub zaginięcia. Uczniowie nie mogą przynosić do szkoły także przedmiotów takich jak scyzoryk, noże czy inne ostre narzędzia, które mogą spowodować skaleczenie siebie lub innych.
+__Artikel 12__: Leerlingen mogen geen waardevolle spullen mee naar school nemen, zoals mobiele telefoons of tablets, *enz.* De school is niet verantwoordelijk als deze beschadigd raken of zoek raken. Ook mogen leerlingen geen spullen meenemen naar school, zoals een zakmes, messen of ander scherp gereedschap waarmee zichzelf of anderen zou kunnen verwonden.
 
-__Artykuł 13__: Rodzice lub opiekunowie będą obciążani wszelkimi kosztami szkód spowodowanych przez ucznia w szkole lub na jej terenie.
+__Artikel 13__: Ouders of verzorgers worden in rekening gebracht voor alle schade, die de leerling aan of op het schoolterrein heeft veroorzaakt.
 
-__Artykuł 14__: Na terenie szkoły obowiązuje całkowity zakaz palenia tytoniu, oprócz wyznaczonej palarni. 
+__Artikel 14__: Op het schoolterrein geldt een totaal rookverbod.
 
-__Artykuł 15__: Rodzice i uczniowie nie mogą przynosić do szkoły alkoholu i niedozwolonych prawem używek, nie mogą również przebywać na terenie szkoły będąc pod ich wpływem.
+__Artikel 15__: Ouders en leerlingen mogen geen alcohol en illegale drugs mee naar school nemen en mogen ook niet onder hun invloed op het schoolterrein verblijven.
 
-__Artykuł 16__: Zarząd nie ponosi odpowiedzialności za rzeczy pozostawione w szkole.
+__Artikel 16__: Het bestuur is niet verantwoordelijk voor spullen, die op school zijn achtergelaten.
 
-__Artykuł 17__: Opłaty za szkołę: 
+__Artikel 17__: Schoolgeld: 
 
-* Jednorazowa opłata wpisowa wynosi €30,- za pierwsze dziecko oraz €5,- za każde następne. Wpisowe należy uiścić w ciągu 7 dni od zapisania dziecka do szkoły.Opłata za szkołę za rok szkolny 2020/2021 wynosi €135,- za pierwsze dziecko oraz €75,- za każde następne. Opłatę można uregulować jednorazowo do dnia 1 października lub w 2 ratach po 50%, pierwsza do dnia 1 października, druga do dnia 1 lutego. Jeśli dziecko zostanie zapisane w ciągu trwania roku szkolnego, to  zarówno wpisowe jak i opłata za zajęcia, powinny być wykonane w przeciągu 7 dni od zapisania dziecka. Przy opłacie jednorazowej za cały rok z góry opłata za pierwsze dziecko wynosi 130 €, a za każde następne 70 €.
-* Zarząd szkoły może podnieść opłaty za szkołe. Podwyżka taka, wraz z uzasadnieniem, powinna zostać zakomunikowana rodzicom/opiekunom, najpóżniej przed końcem roku szkolnego poprzedzającego rok szkolny, od którego podwyżka zaczyna obowiązywać. Podwyżka większa niż 15% musi zostać przegłosowana przez Stowarzyszenie na Walnym Zgromadzeniu, normalną większością głosów. 
-* Opłaty należy dokonywać na konto szkoły: __SNS Bank NL41 SNSB 0902746022__ t.n.v __Vereniging Poolse School Nijmegen__.
+* Het eenmalige inschrijfgeld bedraagt €30,- voor het eerste kind en €5,- voor elk volgend kind. Het inschrijfgeld moet binnen 7 dagen na inschrijving van uw kind op school betaald zijn. Het schoolgeld voor het schooljaar 2020/2021 is €135,- voor het eerste kind en €75,- voor elk volgend kind. De vergoeding kan in één termijn worden betaald vóór 1 oktober of in 2 termijnen van 50%, de eerste voor 1 oktober en de tweede voor 1 februari. Indien het kind tijdens het schooljaar wordt ingeschreven, dienen zowel het inschrijfgeld als het lesgeld binnen 7 dagen na inschrijving van het kind te zijn voldaan. Bij een eenmalige vooruitbetaling voor het hele jaar wordt het eerste kind €130,- en voor elk volgend kind €70,- in rekening gebracht.
+* Het schoolbestuur kan het schoolgeld verhogen. Een dergelijke verhoging, samen met de motivering, moet uiterlijk voor het einde van het schooljaar voorafgaand aan het schooljaar waarop de verhoging ingaat, aan de ouders/verzorgers worden meegedeeld. Over een verhoging van meer dan 15% moet door de Vereniging op de Algemene Vergadering worden gestemd met een gewone meerderheid van stemmen.
+* Betalingen dienen te geschieden op de rekening van de school: __SNS Bank NL41 SNSB 0902746022__ t.n.v __Vereniging Poolse School Nijmegen__.
 * Het niet op tijd betalen (na een eenmalige aanmaning) kan de basis zijn om de leerling van de schoollijst te verwijderen.
