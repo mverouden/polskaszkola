@@ -10,13 +10,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 25
 
 title: Voor wie?
 subtitle:
 
 design:
-  columns: "2"
+  columns: 2
   # background:
   #   image: open-book.jpg
   #   image_darken: 1.0

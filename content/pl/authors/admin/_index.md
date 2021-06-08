@@ -38,7 +38,7 @@ social:
     header: true
   icon: facebook-square
   icon_pack: fab
-  link: https://www.facebook.com/polskaszkolanijmegen/
+  link: 'https://www.facebook.com/polskaszkolanijmegen/'
 superuser: true
 title: Maikel Verouden
 user_groups:

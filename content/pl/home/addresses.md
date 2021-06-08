@@ -16,7 +16,7 @@ title: 'Gdzie?'
 subtitle:
 
 design:
-  columns: "2"
+  columns: 2
   background:
     image: obs_tarthorst.jpg
     image_darken: 0.6

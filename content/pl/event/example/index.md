@@ -20,22 +20,34 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 links:
+- icon: facebook-square
+  icon_pack: fab
+  name: Follow
+  url: 'https://www.facebook.com/polskaszkolanijmegen/'
+- icon: envelope
+  icon_pack: fas
+  name: mail
+  url: mailto:test@example.org
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  name: Publications
+  url: 'https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ'
 location: Wowchemy HQ
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: ''
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
 title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 ---
 
 {{% callout note %}}
@@ -49,3 +61,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+{{< gallery album="themes" >}}

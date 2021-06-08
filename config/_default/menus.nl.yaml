@@ -14,15 +14,19 @@ main:
     parent: school
   - name: Waar?
     url: '/#addresses'
-    weight: 20
+    weight: 15
     parent: school
   - name: Ons doel?
     url: '/#goal'
-    weight: 30
+    weight: 20
     parent: school
   - name: Voor wie?
     url: '/#for_whom'
-    weight: 40
+    weight: 25
+    parent: school
+  - name: Onze Sponsoren
+    url: '/#sponsors'
+    weight: 30
     parent: school
 
   - name: Team
